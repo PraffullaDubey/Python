@@ -1,2 +1,2 @@
 # Python
-All my projects done using Python
+All my projects done using Python.
